@@ -1,4 +1,4 @@
-**Test Cases für Crypto Alarme**
+# Test Cases für Crypto Alarme
 
 Wir haben verschiedene Szenarien getestet, um sicherzustellen, dass unser Crypto Alarm Bot reibungslos funktioniert und den Benutzern eine nahtlose Erfahrung bietet. Jeder Testfall umfasst eine spezifische Funktion des Bots und die erwarteten Ergebnisse, die wir anstreben. Hier sind die Testfälle im Detail:
 
