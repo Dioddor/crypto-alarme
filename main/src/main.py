@@ -1,3 +1,4 @@
+#Bot code Marvin:)
 import bot
 
 # Prüfen, ob das Skript direkt ausgeführt wird
