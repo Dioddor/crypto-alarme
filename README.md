@@ -33,6 +33,7 @@ This is a school project for creating a Discord bot that provides users with cur
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
 
-## License
+## Testcases
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+we have made some testcases for our project which you can find here:
+ [Testcases](https://github.com/Dioddor/crypto-alarme/blob/main/Testcases.md) file for details.
